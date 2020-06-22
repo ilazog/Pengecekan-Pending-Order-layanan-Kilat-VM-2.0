@@ -76,7 +76,7 @@ Adapun dalam layanan ini kami akan membagikan langkah untuk pengecekan Pending O
 2. Pastikan layanan telah **Active** pada kolom status layanan.
 <img src="https://tes.s3-id-jkt-1.kilatstorage.id/possl2.png" width="500">
 
-3. Cek Email Penerbitan untuk Alpha SSL tersebut biasannya menggunakan subjek **Your SSL Certificate for *.domain.tld / www.domain.tld has been issued**
+3. Cek Email Penerbitan untuk Alpha SSL tersebut biasannya menggunakan subjek **Your SSL Certificate for** *.domain.tld / www.domain.tld **has been issued**
 <img src="https://tes.s3-id-jkt-1.kilatstorage.id/possl3.png" width="500">
 
 3. Apabila Email tersebut masih belum ada maka layanan Alpha SSL tersebut **jangan dilakukan Accept Order terlebih dahulu**
